@@ -1,0 +1,8 @@
+Server:		127.0.1.1
+Address:	127.0.1.1#53
+
+Non-authoritative answer:
+www.it-college.ac.jp	canonical name = odin.it-college.ac.jp.
+Name:	odin.it-college.ac.jp
+Address: 160.16.71.214
+
